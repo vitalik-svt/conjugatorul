@@ -1,4 +1,4 @@
-# conjugatoro
+# conjugatorul
 
 Telegram bot for Romanian verb conjugation<br>
 Based on data from:
